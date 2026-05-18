@@ -1,22 +1,27 @@
 <div align="center">
 
-<!-- Custom Generated Slate-Neon Tech Banner -->
-<img src="github_profile_banner.png" alt="Parth Valand Banner" width="100%" style="border-radius: 10px; margin-bottom: 15px;" />
+  <!-- Custom Generated Slate-Neon Tech Banner -->
+  <img src="https://raw.githubusercontent.com/Parthvaland2005/Parthvaland2005/main/github_profile_banner.png" alt="Parth Valand Banner" width="100%" style="border-radius: 10px; margin-bottom: 15px;" />
 
-# Hi 👋 I'm Parth Valand
+  <br/>
+  
+  <h1>Hi 👋 I'm Parth Valand</h1>
 
-<!-- Dynamic Typewriting Subtitle -->
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Python+Developer;Google+Cloud+Learner;Full-Stack+Web+Developer" alt="Typing Subtitle" />
+  <!-- Dynamic Typewriting Subtitle -->
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Python+Developer;Google+Cloud+Learner;Full-Stack+Web+Developer" alt="Typing Subtitle" />
 
-<!-- Live Profile Views Counter -->
-<img src="https://komarev.com/personal-badge/?username=Parthvaland2005&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views Counter" style="margin-top: 10px;" />
+  <br/>
 
-<br/>
-<br/>
+  <!-- Live Profile Views Counter -->
+  <img src="https://komarev.com/personal-badge/?username=Parthvaland2005&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views Counter" style="margin-top: 10px;" />
 
-*Consistency + Learning + Building = Growth 🚀*
+  <br/>
+  <br/>
+
+  <p><em>Consistency + Learning + Building = Growth 🚀</em></p>
 
 </div>
+
 
 ---
 

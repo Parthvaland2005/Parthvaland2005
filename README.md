@@ -81,18 +81,14 @@ Hello! I'm **Parth Valand**, a passionate **Computer Engineering Student** and *
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Project
 
-| Project | Tech Stack | Description | Link / Repository |
-|:---|:---|:---|:---|
-| 🔹 **Carbon Emission Predictor** | Flask, ML, SQLite | AI-powered carbon prediction system | [Repository](#) |
-| 🔹 **LMS Website** | MERN Stack | Full-stack learning management system | [Repository](#) |
-| 🔹 **AI Chatbot** | Python, Flask | AI chatbot with authentication | [Repository](#) |
-| 🔹 **FreeCodeCamp Daily Challenge** | Python | Daily problem-solving consistency journey | [Repository](https://github.com/Parthvaland2005/freecodecamp-daily-challenge) |
+### 🔹 [FreeCodeCamp Daily Coding Challenge](https://github.com/Parthvaland2005/freecodecamp-daily-challenge)
 
-<br/>
+*Solving one Python problem every single day and sharing the solutions to maintain consistency, track growth, and perfect algorithmic reasoning.*
 
 <div align="center">
+  <br/>
   <a href="https://github.com/Parthvaland2005/freecodecamp-daily-challenge">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Parthvaland2005&repo=freecodecamp-daily-challenge&theme=tokyonight&border_radius=10" alt="FreeCodeCamp Challenge Repo Card" />
   </a>

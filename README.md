@@ -13,7 +13,7 @@
   <br/>
 
   <!-- Live Profile Views Counter -->
-  <img src="https://komarev.com/personal-badge/?username=Parthvaland2005&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views Counter" style="margin-top: 10px;" />
+  <img src="https://komarev.com/ghpvc/?username=Parthvaland2005&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views Counter" style="margin-top: 10px;" />
 
   <br/>
   <br/>

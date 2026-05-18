@@ -8,6 +8,12 @@
 <!-- Dynamic Typewriting Subtitle -->
 <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Python+Developer;Google+Cloud+Learner;Full-Stack+Web+Developer" alt="Typing Subtitle" />
 
+<!-- Live Profile Views Counter -->
+<img src="https://komarev.com/personal-badge/?username=Parthvaland2005&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views Counter" style="margin-top: 10px;" />
+
+<br/>
+<br/>
+
 *Consistency + Learning + Building = Growth 🚀*
 
 </div>
@@ -21,6 +27,23 @@ Hello! I'm **Parth Valand**, a passionate **Computer Engineering Student** and *
 * 🌱 **Current Focus**: Improving my problem-solving skills by solving daily coding challenges on **freeCodeCamp**.
 * 🌐 **Web Development**: Building full-stack web applications using the modern **MERN Stack**.
 * 🧠 **Computer Science**: Strengthening my foundation in **Data Structures & Algorithms**.
+
+### ⚡ Quick Facts
+* 💻 **Favorite IDEs**: VS Code & PyCharm
+* ☕ **Fuel**: Powered by curiosity and consistent daily practice
+* 🧠 **Daily Habit**: Solving algorithmic puzzles, coding daily, and reading tech documentation
+* 🎯 **Career Goal**: To design and deploy scalable, cloud-native enterprise web applications
+
+---
+
+## 🏆 Certifications & Training
+
+<div align="center">
+
+[![Google Cloud Skills Boost](https://img.shields.io/badge/Google_Cloud-Skills_Boost-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/)
+[![IBM SkillsBuild AI](https://img.shields.io/badge/IBM_SkillsBuild-AI_&_Cloud-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](https://skillsbuild.org/)
+
+</div>
 
 ---
 
@@ -87,6 +110,14 @@ Hello! I'm **Parth Valand**, a passionate **Computer Engineering Student** and *
     </tr>
   </table>
 
+</div>
+
+---
+
+## 📈 Weekly Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parthvaland2005&theme=tokyo-night" alt="Parth's Activity Graph" width="100%" style="border-radius: 10px; margin-top: 15px;" />
 </div>
 
 ---

@@ -8,7 +8,7 @@
   <h1>Hi 👋 I'm Parth Valand</h1>
 
   <!-- Dynamic Typewriting Subtitle -->
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Python+Developer;Google+Cloud+Learner;Full-Stack+Web+Developer" alt="Typing Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Python+Developer;MERN+Stack+Developer;Building+Real-World+Projects;Cloud+%26+AI+Learner" alt="Typing Subtitle" />
 
   <br/>
 
@@ -18,7 +18,7 @@
   <br/>
   <br/>
 
-  <p><em>Consistency + Learning + Building = Growth 🚀</em></p>
+  <p><em>Learning deeply, building consistently, and growing every day 🚀</em></p>
 
 </div>
 
@@ -45,6 +45,7 @@ Hello! I'm **Parth Valand**, a passionate **Computer Engineering Student** and *
 
 <div align="center">
 
+[![Infosys Springboard](https://img.shields.io/badge/Infosys_Springboard-AI_Internship-007CC3?style=for-the-badge&logo=infosys&logoColor=white)](#)
 [![Google Cloud Skills Boost](https://img.shields.io/badge/Google_Cloud-Skills_Boost-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/)
 [![IBM SkillsBuild AI](https://img.shields.io/badge/IBM_SkillsBuild-AI_&_Cloud-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](https://skillsbuild.org/)
 
@@ -80,14 +81,18 @@ Hello! I'm **Parth Valand**, a passionate **Computer Engineering Student** and *
 
 ---
 
-## 📌 Featured Project
+## 📌 Featured Projects
 
-### 🔹 [FreeCodeCamp Daily Coding Challenge](https://github.com/Parthvaland2005/freecodecamp-daily-challenge)
+| Project | Tech Stack | Description | Link / Repository |
+|:---|:---|:---|:---|
+| 🔹 **Carbon Emission Predictor** | Flask, ML, SQLite | AI-powered carbon prediction system | [Repository](#) |
+| 🔹 **LMS Website** | MERN Stack | Full-stack learning management system | [Repository](#) |
+| 🔹 **AI Chatbot** | Python, Flask | AI chatbot with authentication | [Repository](#) |
+| 🔹 **FreeCodeCamp Daily Challenge** | Python | Daily problem-solving consistency journey | [Repository](https://github.com/Parthvaland2005/freecodecamp-daily-challenge) |
 
-*Solving one Python problem every single day and sharing the solutions to maintain consistency, track growth, and perfect algorithmic reasoning.*
+<br/>
 
 <div align="center">
-  <br/>
   <a href="https://github.com/Parthvaland2005/freecodecamp-daily-challenge">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Parthvaland2005&repo=freecodecamp-daily-challenge&theme=tokyonight&border_radius=10" alt="FreeCodeCamp Challenge Repo Card" />
   </a>
@@ -131,6 +136,8 @@ Hello! I'm **Parth Valand**, a passionate **Computer Engineering Student** and *
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gecdhd-comp-parth-valand)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Parthvaland2005)
 

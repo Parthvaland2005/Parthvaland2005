@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Custom Generated Slate-Neon Tech Banner -->
-  <img src="https://raw.githubusercontent.com/Parthvaland2005/Parthvaland2005/main/github_profile_banner.png" alt="Parth Valand Banner" width="100%" style="border-radius: 10px; margin-bottom: 15px;" />
+  <img src="https://raw.githubusercontent.com/Parthvaland2005/Parthvaland2005/main/github_profile_banner.png" alt="Parth Valand Banner" width="80%" style="border-radius: 10px; margin-bottom: 15px;" />
 
   <br/>
   

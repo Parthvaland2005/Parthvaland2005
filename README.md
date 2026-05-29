@@ -18,7 +18,7 @@
   <br/>
   <br/>
 
-  <p><em>Learning deeply, building consistently & growing every day 🚀</em></p>
+  <p><em>Learning deeply, building consistently and growing every day 🚀</em></p>
 
 </div>
 
@@ -36,7 +36,7 @@ Hello! I'm **Parth Valand**, a passionate **Computer Engineering Student** and *
 ### ⚡ Quick Facts
 * 💻 **Favorite IDEs**: VS Code & PyCharm
 * ☕ **Fuel**: Powered by curiosity and consistent daily practice
-* 🧠 **Daily Habit**: Solving algorithmic puzzles, coding daily, and reading tech documentation
+* 🧠 **Daily Habit**: Solving algorithmic puzzles, coding daily & reading tech documentation
 * 🎯 **Career Goal**: To design and deploy scalable, cloud-native enterprise web applications
 
 ---

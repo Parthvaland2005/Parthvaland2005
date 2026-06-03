@@ -18,7 +18,7 @@
   <br/>
   <br/>
 
-  <p><em>Learning deeply, building consistently and growing every day 🚀</em></p>
+  <p><em>Learning deeply, building consistently & growing every day 🚀</em></p>
 
 </div>
 
@@ -31,7 +31,7 @@ Hello! I'm **Parth Valand**, a passionate **Computer Engineering Student** and *
 
 * 🌱 **Current Focus**: Improving my problem-solving skills by solving daily coding challenges on **freeCodeCamp**.
 * 🌐 **Web Development**: Building full-stack web applications using the modern **MERN Stack**.
-* 🧠 **Computer Science**: Strengthening my foundation in **Data Structures and Algorithms**.
+* 🧠 **Computer Science**: Strengthening my foundation in **Data Structures & Algorithms**.
 
 ### ⚡ Quick Facts
 * 💻 **Favorite IDEs**: VS Code & PyCharm

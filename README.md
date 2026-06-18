@@ -18,7 +18,7 @@
   <br/>
   <br/>
 
-  <p><em>Learning deeply, building consistently & growing every day 🚀</em></p>
+  <p><em>Learning deeply, building consistently, and growing every day 🚀</em></p>
 
 </div>
 
@@ -27,7 +27,7 @@
 
 ## 🚀 About Me
 
-Hello! I'm **Parth Valand**, a passionate **Computer Engineering Student** and **Python Developer**. I am dedicated to solving complex problems, building full-stack web applications, and expanding my knowledge of Google Cloud. I focus on consistency, continuous learning & applying software engineering principles to real-world challenges.
+Hello! I'm **Parth Valand**, a passionate **Computer Engineering Student** and **Python Developer**. I am dedicated to solving complex problems, building full-stack web applications, and expanding my knowledge of Google Cloud. I focus on consistency, continuous learning, and applying software engineering principles to real-world challenges.
 
 * 🌱 **Current Focus**: Improving my problem-solving skills by solving daily coding challenges on **freeCodeCamp**.
 * 🌐 **Web Development**: Building full-stack web applications using the modern **MERN Stack**.
@@ -36,7 +36,7 @@ Hello! I'm **Parth Valand**, a passionate **Computer Engineering Student** and *
 ### ⚡ Quick Facts
 * 💻 **Favorite IDEs**: VS Code & PyCharm
 * ☕ **Fuel**: Powered by curiosity and consistent daily practice
-* 🧠 **Daily Habit**: Solving algorithmic puzzles, coding daily & reading tech documentation
+* 🧠 **Daily Habit**: Solving algorithmic puzzles, coding daily, and reading tech documentation
 * 🎯 **Career Goal**: To design and deploy scalable, cloud-native enterprise web applications
 
 ---

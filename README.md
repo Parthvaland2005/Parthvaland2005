@@ -106,7 +106,7 @@ Hello! I'm **Parth Valand**, a passionate **Computer Engineering Student** and *
         <img src="https://github-readme-stats.vercel.app/api?username=Parthvaland2005&show_icons=true&theme=tokyonight&border_radius=10" alt="Parth's GitHub Stats" width="400" />
       </td>
       <td align="center" valign="top" style="border: none; padding: 10px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parthvaland2005&theme=tokyonight&border_radius=10" alt="Parth's Coding Streak" width="400" />
+       <img src="https://streak-stats.demolab.com?user=Parthvaland2005&theme=tokyonight&border_radius=10" alt="Parth's Coding Streak" width="400" />
       </td>
     </tr>
     <tr style="border: none;">

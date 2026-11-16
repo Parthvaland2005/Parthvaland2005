@@ -18,7 +18,7 @@
   <br/>
   <br/>
 
-  <p><em>Learning deeply, building consistently & growing every day 🚀</em></p>
+  <p><em>Learning deeply, building consistently and growing every day 🚀</em></p>
 
 </div>
 
